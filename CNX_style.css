@@ -1,0 +1,156 @@
+body
+{
+    background-color: blue;
+}
+
+#CNLEV_500
+{
+    background-color: white;
+    width: 500;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 18px white;
+}
+
+#CNLEV
+{
+    width: 400px;
+    height: 400px;
+}
+
+#HBGOLD_SPAZ
+{
+    background-color: white;
+    width: 500;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 18px white;
+}
+
+#HBGOLD
+{
+    width: 400px;
+    height: 400px;
+}
+
+#PRESTILLER_NT_50
+{
+    background-color: white;
+    width: 500; 
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 18px white;
+}
+
+#PRESTILLER_NT
+{
+    width: 400px;
+    height: 400px;
+}
+
+#Lisani-M
+{
+    background-color: white;
+    width: 500; 
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 18px white;
+}
+
+#lisani
+{
+  width: 400;
+  height: 300px;  
+}
+
+#CNPX_200
+{
+    background-color: white;
+    width: 500; 
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 18px white; 
+}
+
+#CNPX
+{
+    width: 400px;
+    height: 400px;
+}
+
+#D-LURACISE
+{
+    background-color: white;
+    width: 500; 
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 18px white;
+}
+
+#D
+{
+    width: 400px;
+    height: 400px;
+}
+
+#GDMIN_TBR
+{
+    background-color: white;
+    width: 500; 
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 18px white;
+}
+
+#GDMIN
+{
+    width: 400px;
+    height: 400px;
+}
+
+#CNX_CLAV_625
+{
+    background-color: white;
+    width: 500; 
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 18px white; 
+}
+
+#CNX_CLAV
+{
+    width: 400px;
+    height: 400px;
+}
+
+#Becocnx_OD
+{
+    background-color: white;
+    width: 500; 
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 18px white; 
+}
+
+#Becocnx
+{
+    width: 400px;
+    height: 400px;
+}
+
+.ABC
+{
+    margin-left: 50px;
+}
+
+.CP
+{
+    font-size: 20px;
+}
+
+#img
+{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+    border: solid blue;
+}
